@@ -1,0 +1,81 @@
+body{
+	background: url("image/nature-view-for-y.jpg") no-repeat;
+	background-size: cover;
+	font-family:Arial;
+	color:white;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-line:underline;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}	
+header-area{
+	background-color:red;
+	height:200px;
+}
+
+h1{
+	background-color: ;
+	 font-size:65px;
+	 color:gold;
+	
+	 padding:50px;
+	 margin:0px;
+}
+h2{
+
+	font-size:40px;
+	color:red;
+	margin:0px;
+}
+h4{
+	 font-size:50px;
+	 color:Chartreuse;
+	
+	 padding:0px;
+	 margin:0px;
+	
+}
+
+
+iframe{
+	float:left;
+	background-image:yellow;
+}
+
+
+article {
+    float: Right;
+    padding: 20px;
+    width: 100%;
+    background-color:royalblue;
+    height: 300px; /* only for demonstration, should be removed */
+	
+table {
+    font-family: arial, sans-serif;
+    border-collapse:red;
+    width: 70%;
+}
+
+}
+td {
+	background-color:MediumSlateBlue;
+	color:red;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+	
+}
+tr:nth-child(even) {
+    background-color: MistyRose;
+}
+a{
+	
+	
+	font-size:20px;
+	color:white;
+	padding:0px;
+}
